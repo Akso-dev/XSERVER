@@ -1,0 +1,14 @@
+{
+    "ip": "CityLegend.aternos.me",
+    "port": 60878,
+    "name": "AfkBot24",
+    "auto-night-skip": "true",
+    "join-msg": "Hello i'm bot CityCraft",
+    "join-msg-on": "true",
+    "custom-message-enabled": "true",
+    "custom-message-1": "Server 24/7 luck game",
+    "custom-message-2": "Server 24/7 luck game",
+    "login-enabled": "true",
+    "register-cmd": "/register TORNADO TORNADO",
+    "login-cmd": "/login TORNADO"
+}
